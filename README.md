@@ -137,7 +137,7 @@ wget -c http://mirror.mcs.anl.gov/openssh/portable/openssh-7.4p1.tar.gz
 
 ```yum -y install gcc libcap libcap-devel glibc-devel pam-devel  krb5-devel  krb5-libs```
 
-这些包大部分都能在Redhat7.1的光盘中找到，找不到的直接去[网易开源镜像网站对应版块](Index of /centos/7/os/x86_64/Packages)查找。找到后可以直接使用rpm *ivh安装所有包
+这些包大部分都能在Redhat7.1的光盘中找到，找不到的直接去[网易开源镜像网站对应版块](http://mirrors.163.com/centos/7/os/x86_64/Packages/)查找。找到后可以直接使用rpm *ivh安装所有包
 
 ### 3、编译安装zlib
 
